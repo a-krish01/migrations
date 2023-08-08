@@ -1,1 +1,1 @@
-alter table HELLO_WORLD add dob datetime;
+alter table DEMO.HELLO_WORLD add dob datetime;
